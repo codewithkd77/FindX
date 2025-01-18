@@ -17,7 +17,7 @@ FindX is a powerful tool that uses Google Dorking techniques to help you find fi
 
 ## Deployed Application
 
-The FindX application has been deployed and is available at the following URL: [FindX Web App](https://findx24.vercel.app/)
+The FindX application has been deployed and is available at the following URL: [FindX Web App](https://findx-go.vercel.app/)
 
 You can access the deployed version of the application and use it to find files and content across the web.
 
