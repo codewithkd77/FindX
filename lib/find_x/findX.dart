@@ -134,7 +134,7 @@ class _FindXState extends State<FindX> {
             ),
           ),
           TextSpan(
-            text: "X",
+            text: "ME",
             style: GoogleFonts.spaceGrotesk(
               color: secondaryColor,
               fontSize: 44,
